@@ -8,7 +8,7 @@ Main Features: Including basic visualizations like line charts, tables and bar c
 2. Data Analysis Final.pbix
 Explanation: An alternative final version of the data analysis with a different analytical approach or additional data.
 Main Features: Similar to DataAnalysisFinal.pbix but includes alternative visualizations or insights.
-3. Data Analysis Updates.pbix
+3. Data Analysis Updated.pbix
 Explanation: A new iteration of the data analysis project, possibly exploring new questions or datasets.
 Main Features: Introduction of new data sources, visualizations, and analytics techniques not used in previous versions.
 4. Digital Transformation.pbix
