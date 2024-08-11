@@ -2,10 +2,10 @@
 This repository contains a collection of Power BI projects developed for data analysis and visualization purposes. Below is an overview of each project file, including its primary objective.
 
 **Project Files**
-1. Data Analysis.pbix
+1. **Data Analysis.pbix**
 Explanation: It Provides an initial analysis of the dataset, focusing on key metrics and trends.
 Main Features: Including basic visualizations like line charts, tables and bar charts to explore data patterns.
-2. Data Analysis Final.pbix
+2. **Data Analysis Final.pbix**
 Explanation: An alternative final version of the data analysis with a different analytical approach or additional data.
 Main Features: Similar to DataAnalysisFinal.pbix but includes alternative visualizations or insights.
 3. Data Analysis Updated.pbix
