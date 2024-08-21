@@ -1,5 +1,5 @@
 **Power BI Projects Explanation**
-This repository contains a collection of Power BI projects developed for data analysis and visualization purposes. Below is an overview of each project file, including its primary objective.
+This repository contains a Power BI project that developed for data analysis and visualization purpose. Below is an overview of each project file, including its primary objective.
 
 **Project Files**
 1. **Data Analysis.pbix**
